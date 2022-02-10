@@ -5,14 +5,14 @@ Text Generator is a great tool to repeat countless texts. This tool can repeat a
 **Install process of Kali Linux**
 * `apt-get install python`
 * `apt-get install git`
-* `git clone https://github.com/r1d3x0r/TXTTASK.git`
+* `git clone https://github.com/shahednoor/txt-generator.git`
 * `cd TXTTASK`
 * `python3 txttask.py`
 
 **Install process of Termux**
 * `pkg install python`
 * `pkg install git`
-* `git clone https://github.com/r1d3x0r/TXTTASK.git`
+* `git clone https://github.com/shahednoor/txt-generator.git`
 * `cd TXTTASK`
 * `python3 txttask.py`
 
